@@ -1,6 +1,6 @@
 ---
 title: "Using Skaffold for CI/CD with Gitlab"
-linkTitle: "Skaffold in CI/CD"
+linkTitle: "Skaffold in CI/CD with GitLab"
 weight: 100
 ---
 Contributed by: [@tvvignesh](https://github.com/tvvignesh)
